@@ -7,7 +7,7 @@ tags:
 <center>
 <font size = "6">EGR304: (Raunak Singh Chhabra) Datasheet</font><br>
 as part of<br>
-<font size= "8"> setting up git, github and datasheet</font><br>
+<font size= "8"> Project Name</font><br>
 for<br>
 <font size= "5"> Team 201 </font><br>
 
