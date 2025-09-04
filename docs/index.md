@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size= "6">(Raunak Singh Chhabra) Datasheet</font><br>
+<font size = "6">EGR304: (Raunak Singh Chhabra) Datasheet</font><br>
 as part of<br>
 <font size= "8"> setting up git, github and datasheet</font><br>
 for<br>
@@ -22,7 +22,6 @@ for<br>
 
 * This needs to be updated to reflect <ins>your version</ins> of the team project, so when shared not via the team's report, the reader gets an idea of the direction of the project and how your work will contribute to the overall success.
 * Add context that ties into the link to your [team report.](https://embedded-systems-design.github.io/EGR304TeamTemplate/)
-
 
 ### My Contribution
 
