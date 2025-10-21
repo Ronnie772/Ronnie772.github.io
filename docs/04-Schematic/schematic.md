@@ -14,4 +14,5 @@ This schematic is design to support the water valve.
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*]([Subsystem-schematic-design-RSC-.pdf](https://github.com/user-attachments/files/23014407/Subsystem-schematic-design-RSC-.pdf)), and the Zip folder of the project [*here*]([Subsystem-schematic-design-RSC-.zip](https://github.com/user-attachments/files/23014415/Subsystem-schematic-design-RSC-.zip))
+The schematic as a PDF download is available [*here*], and the Zip folder of the project [*here*][Subsystem-schematic-design-RSC-.zip](https://github.com/user-attachments/files/23014415/Subsystem-schematic-design-RSC-.zip)
+[*here*] [Subsystem-schematic-design-RSC-.pdf](https://github.com/user-attachments/files/23014426/Subsystem-schematic-design-RSC-.pdf)
