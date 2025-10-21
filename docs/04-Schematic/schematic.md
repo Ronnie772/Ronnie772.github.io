@@ -4,10 +4,11 @@ title: Schematic
 
 ## Overview
 
-This schematic is design to support .... (highlight functionally, power, and controller).
+This schematic is design to support the water valve.
 
 
-![schematic](Screenshot.png){style width:"350" height:"300;"}
+![schematic](<img width="1161" height="765" alt="image" src="https://github.com/user-attachments/assets/854aaa66-baac-475e-927f-64913f49d9b7" />
+){style width:"350" height:"300;"}
 **Figure ##:** Showing a example schematic.
 
 
