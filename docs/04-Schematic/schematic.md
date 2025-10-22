@@ -11,7 +11,7 @@ This schematic is design to support the water valve.
 
 
 
-**Figure ##:** Showing a example schematic.
+**Figure 1:** Showing the schematic for the motors that control the water valve..
 
 
 ## Resouces
