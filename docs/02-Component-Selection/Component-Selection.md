@@ -8,7 +8,7 @@ title: Component Selection
 
 1. M1N10FB11G 5V motor
 
-    ![](<img width="265" height="229" alt="image" src="https://github.com/user-attachments/assets/865fe480-bd17-47e6-bd68-5dd88072109e" />
+    ![](<img width="265" height="229" alt="Screenshot 2025-10-21 220238" src="https://github.com/user-attachments/assets/0fa52f72-bbe8-42d5-af59-357256740af4" />
 ) 
 
     * $3.19/each
