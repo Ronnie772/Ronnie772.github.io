@@ -8,8 +8,8 @@ title: Component Selection
 
 1. M1N10FB11G 5V motor
 
-    ![](<img width="265" height="229" alt="Screenshot 2025-10-21 220238" src="https://github.com/user-attachments/assets/0fa52f72-bbe8-42d5-af59-357256740af4" />
-) 
+     <img width="265" height="229" alt="Screenshot 2025-10-21 220238" src="https://github.com/user-attachments/assets/f51a6bd4-771a-4e88-a692-95ec44e6323e" />
+
 
     * $3.19/each
     * [link to product]((https://www.digikey.com/en/products/detail/nmb-technologies-corporation/M1N10FB11G/2417078))
@@ -23,8 +23,8 @@ title: Component Selection
 
 3. 11696 12V motor 
 
-    ![](<img width="148" height="141" alt="image" src="https://github.com/user-attachments/assets/f5816197-7f07-4603-b2fb-b55dd8e6f51f" />
-)
+   <img width="148" height="141" alt="Screenshot 2025-10-21 220703" src="https://github.com/user-attachments/assets/4933cefb-9a2a-4f6d-af73-d02ce50494c0" />
+
 
     * $2.75/each
     * [Link to product](https://www.digikey.com/en/products/detail/sparkfun-electronics/11696/6163657)
@@ -36,8 +36,8 @@ title: Component Selection
 
 4. SE15K1BTYJ 12V motor
    
-    ![](<img width="152" height="111" alt="image" src="https://github.com/user-attachments/assets/b07aa425-9731-4845-80c1-99d9383678d6" />
-)
+    <img width="152" height="111" alt="Screenshot 2025-10-21 220755" src="https://github.com/user-attachments/assets/200d5539-51be-4632-ba1e-df6a95210c7f" />
+
 
     * $9.24/each
     * [Link to product](https://www.digikey.com/en/products/detail/nmb-technologies-corporation/SE15K1BTYJ/6021448)
