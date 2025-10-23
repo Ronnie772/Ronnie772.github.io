@@ -6,7 +6,8 @@ title: Schematic
 
 This schematic is design to support the water valve.
 
-<img width="1185" height="775" alt="image" src="https://github.com/user-attachments/assets/7f008d3b-c39b-4ef7-bf53-da3f553cd153" />
+<img width="1083" height="743" alt="image" src="https://github.com/user-attachments/assets/23344584-9b4a-4465-b99b-2394fef23b17" />
+
 
 
 
