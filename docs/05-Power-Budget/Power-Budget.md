@@ -22,4 +22,6 @@ From the prepare Power Budget, .....
 
 ## Resouces
 
-The power budget as a PDF download is available [*here*](PowerBudgetExample.pdf), and a Microsoft Excel Sheet [*here*](PowerBudgetExample.xlsx).
+The power budget as a PDF download is available [*here*](https://github.com/user-attachments/files/23171101/Power-budget-rsc.pdf), and a Microsoft Excel Sheet [*here*]([PowerBudgetExample.xlsx](https://github.com/user-attachments/files/23171109/Power_Budget.xlsx)).
+
+
