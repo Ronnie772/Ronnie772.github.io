@@ -11,4 +11,4 @@ The block diagram represents the initial design for the pcb that will be used to
 To get some initial formatting help, one can view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/) some basic techniques.
 
 
-<img width="882" height="401" alt="block-diagram-RSC drawio" src="https://github.com/user-attachments/assets/1d53fd7b-b9ce-4596-8d06-ca40139145c1" />
+<img width="1032" height="547" alt="block-diagram-RSC drawio (1)" src="https://github.com/user-attachments/assets/542096af-41fa-4bb3-9c2d-9ab9f3ceb1fe" />
