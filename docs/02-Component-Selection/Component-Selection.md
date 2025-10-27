@@ -27,8 +27,8 @@ title: Component Selection
 
 
     * $2.75/each
-    * [Link to product](https://www.digikey.com/en/products/detail/sparkfun-electronics/11696/6163657)
-      <br>
+    * [Link to product]((https://www.digikey.com/en/products/detail/sparkfun-electronics/11696/6163657))
+      
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
