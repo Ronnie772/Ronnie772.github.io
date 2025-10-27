@@ -3,9 +3,9 @@ title: Power Budget
 ---
 
 ## Overview
-Write a overview of what you did and why you did a Power Budget.
+The Power budget helps organise the electronics and decide the specifications for the fuse on the pcb.
 
-> Capture your power budge as a image to display. Take time to get clean breaks and a well organized layout.
+
 
 <img width="1707" height="598" alt="image" src="https://github.com/user-attachments/assets/b907e89c-426e-49c6-81d6-d659b11d21b9" />
 
@@ -18,7 +18,7 @@ Write a overview of what you did and why you did a Power Budget.
 
 ## Conclusions
 
-From the prepare Power Budget, .....
+From the prepare Power Budget, there is enough current for the circuit and a definite 1500mA for the fuse.
 
 ## Resouces
 
