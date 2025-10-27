@@ -28,10 +28,11 @@ title: Component Selection
 
     * $2.75/each
     * [Link to product](https://www.digikey.com/en/products/detail/sparkfun-electronics/11696/6163657)
+      <br>
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
-    | Cheaper                                                           | No torque mentioned |
+    | Inexpensive                                                          | No torque mentioned |
     | Stable over operating temperature                                 |                     
 
 3. SE15K1BTYJ 12V motor
