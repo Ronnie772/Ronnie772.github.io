@@ -88,7 +88,7 @@ title: Component Selection
 
 
    * $2.09
-   * [Link to product]((https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/tb6615pg-8/7809551))
+   * [Link to product](https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/tb6615pg-8/7809551)
   
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
