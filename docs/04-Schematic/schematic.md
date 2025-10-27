@@ -4,7 +4,7 @@ title: Schematic
 
 ## Overview
 
-This schematic is design to support the water valve.
+This schematic is the design of the pcb that controls the water valve.
 
 <img width="1286" height="523" alt="image" src="https://github.com/user-attachments/assets/d6604258-3403-4c74-961d-55172b4ad1f6" />
 
@@ -17,7 +17,7 @@ This schematic is design to support the water valve.
 
 
 
-**Figure 1:** Showing the schematic for the motors that control the water valve..
+**Figure 1:** Showing the schematic for the motors that control the water valve.
 
 
 ## Resouces
