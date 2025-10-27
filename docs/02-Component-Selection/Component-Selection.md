@@ -101,5 +101,101 @@ title: Component Selection
 **Rationale:** This H-Bridge is part of the kit provided by the class and it fulfills our requirements hence, eliminating the need to order an external part. 
 
 
-*Barrel Jack*
+**Barrel Jack**
 
+1. PJ-102AH
+   
+   <img width="148" height="146" alt="image" src="https://github.com/user-attachments/assets/711629bb-e7f1-4532-80e1-d3b02cca3b3b" />
+
+
+
+   * $0.76
+   * [Link to product](https://www.digikey.com/en/products/detail/cui-devices/PJ-102AH/408448)
+  
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | From the kit                                                      | Side load fragility |
+    | Polybutylene Terephthalate for housing                            |                     |
+    |                                                                   |                     |
+
+2. PJ-202A
+   
+   <img width="151" height="151" alt="image" src="https://github.com/user-attachments/assets/bbb085f2-c910-4f62-8371-ee7f03e1c0d0" />
+
+
+
+   * $0.7
+   * [Link to product](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/pj-202a/252007)
+  
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Polybutylene Terephthalate for housing                            | Lower current rating |
+    |                                                                   | Package arrival too late |
+
+3. RAPC722X
+   
+   <img width="151" height="151" alt="image" src="https://github.com/user-attachments/assets/bbb085f2-c910-4f62-8371-ee7f03e1c0d0" />
+
+
+
+   * $2.01
+   * [Link to product](https://www.digikey.com/en/products/detail/switchcraft-inc/rapc722x/804747)
+  
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Better solder joint reliability                                   | Higher price |
+    |                                                                   |Housing material specified as thermoplastic no specifications given |
+
+**Choice:** Option 1: PJ-102AH
+
+**Rationale:** This Barrel Jack is part of the kit provided by the class and it fulfills our requirements hence, eliminating the need to order an external part.
+
+**Voltage Regulator**
+
+1. NJM7805FA
+
+   <img width="144" height="118" alt="image" src="https://github.com/user-attachments/assets/c0609540-c867-4b67-bb26-e6528d6dd6ac" />
+
+
+
+   * $1.7
+   * [Link to product](http://digikey.com/en/products/detail/nisshinbo-micro-devices-inc/NJM7805FA/805763)
+  
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Lightweight                                                       | Higher price |
+    |                                                                   |Working temp lower (max- 85°C) |
+
+2. LM7805T
+
+   <img width="128" height="97" alt="image" src="https://github.com/user-attachments/assets/30cef9a5-1df8-4c35-be3c-9394cdece475" />
+
+    
+
+   * $0.33
+   * [Link to product](https://www.digikey.com/en/products/detail/taejin/LM7805T/22237260)
+  
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | From the kit                                                      | Only sold in bulk ($33/100) |
+    | Inexpensive                                                       |                      |
+
+3. LM7805R
+
+   <img width="132" height="96" alt="image" src="https://github.com/user-attachments/assets/45744c62-30cb-4aec-9836-b164c188a980" />
+
+
+    
+   * $0.33
+   * [Link to product](https://www.digikey.com/en/products/detail/taejin/LM7805R/22237269)
+  
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Surface mount                                                     | Only sold in bulk ($266.66/800) |
+    | Better  thermal conductivity                                      |                      |
+
+**Choice:** Option 2: LM7805T
+
+**Rationale:** This Volatge Regulator is part of the kit provided by the class and it fulfills our requirements hence, eliminating the need to order an external part.
+
+   
