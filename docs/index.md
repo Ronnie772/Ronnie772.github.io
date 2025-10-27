@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size = "6">EGR304: (Raunak Singh Chhabra) Datasheet</font><br>
+<font size = "6">Raunak Singh Datasheet</font><br>
 as part of<br>
 <font size= "8"> Garden Buddy</font><br>
 for<br>
