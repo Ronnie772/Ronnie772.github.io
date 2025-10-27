@@ -26,6 +26,7 @@ title: Component Selection
    <img width="148" height="141" alt="Screenshot 2025-10-21 220703" src="https://github.com/user-attachments/assets/4933cefb-9a2a-4f6d-af73-d02ce50494c0" />
 
 
+
     * $2.75/each
     * [Link to product]((https://www.digikey.com/en/products/detail/sparkfun-electronics/11696/6163657))
       
@@ -33,8 +34,7 @@ title: Component Selection
     | ----------------------------------------- | ---------------------------------------------------------------- |
     | Inexpensive                               | No torque mensioned                                              |
     | Stable over operating temprature          |                                                                  |
-    | Lightweight                               |                                                                  |
-
+   
 3. SE15K1BTYJ 12V motor
    
     <img width="152" height="111" alt="Screenshot 2025-10-21 220755" src="https://github.com/user-attachments/assets/200d5539-51be-4632-ba1e-df6a95210c7f" />
