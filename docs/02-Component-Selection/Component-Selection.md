@@ -4,6 +4,55 @@ title: Component Selection
 
 
 
+
+**Voltage Regulator**
+
+1. NJM7805FA
+
+   <img width="144" height="118" alt="image" src="https://github.com/user-attachments/assets/c0609540-c867-4b67-bb26-e6528d6dd6ac" />
+
+
+
+   * $1.7
+   * [Link to product](http://digikey.com/en/products/detail/nisshinbo-micro-devices-inc/NJM7805FA/805763)
+  
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Lightweight                                                       | Higher price |
+    |                                                                   |Working temp lower (max- 85°C) |
+
+2. LM7805T
+
+   <img width="128" height="97" alt="image" src="https://github.com/user-attachments/assets/30cef9a5-1df8-4c35-be3c-9394cdece475" />
+
+    
+
+   * $0.33
+   * [Link to product](https://www.digikey.com/en/products/detail/taejin/LM7805T/22237260)
+  
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | From the kit                                                      | Only sold in bulk ($33/100) |
+    | Inexpensive                                                       |                      |
+
+3. LM7805R
+
+   <img width="132" height="96" alt="image" src="https://github.com/user-attachments/assets/45744c62-30cb-4aec-9836-b164c188a980" />
+
+
+    
+   * $0.33
+   * [Link to product](https://www.digikey.com/en/products/detail/taejin/LM7805R/22237269)
+  
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Surface mount                                                     | Only sold in bulk ($266.66/800) |
+    | Better  thermal conductivity                                      |                      |
+
+**Choice:** Option 2: LM7805T
+
+**Rationale:** This Volatge Regulator is part of the kit provided by the class and it fulfills our requirements hence, eliminating the need to order an external part.
+
 **Motors**
 
 1. M1N10FB11G 5V motor
@@ -20,22 +69,8 @@ title: Component Selection
     | Perfectly matches 5V rail                 |                                                                  |
     | Lightweight                               |                                                                  |
     | Available for bulk order for replacements |                                                                  |
-
-2. 11696 12V motor 
-
-   <img width="148" height="141" alt="Screenshot 2025-10-21 220703" src="https://github.com/user-attachments/assets/4933cefb-9a2a-4f6d-af73-d02ce50494c0" />
-
-
-
-    * $2.75/each
-    * [Link to product]((https://www.digikey.com/en/products/detail/sparkfun-electronics/11696/6163657))
-      
-    | Pros                                      | Cons                                                             |
-    | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Inexpensive                               | No torque mensioned                                              |
-    | Stable over operating temprature          |                                                                  |
    
-3. SE15K1BTYJ 12V motor
+2. SE15K1BTYJ 12V motor
    
     <img width="152" height="111" alt="Screenshot 2025-10-21 220755" src="https://github.com/user-attachments/assets/200d5539-51be-4632-ba1e-df6a95210c7f" />
 
@@ -48,10 +83,27 @@ title: Component Selection
     | Higher Torque                                                     | Higher Price        |
     | Small and compact                                                 |                     |
 
-**Choice:** Option 1: M1N10FB11G 5V motor
+3. 2371 6V motor (Pololu)
 
-**Rationale:** This motor eliminates the need for an extra power rail, keeping the PCB design simple. It's inexpensive and lightweight and even though it doesn't have a lot of torque it will fulfill our requirements and is readily available for replacement parts.
+   <img width="151" height="114" alt="image" src="https://github.com/user-attachments/assets/0165aa5f-2a6e-4fd3-abc3-cc830815b42e" />
 
+
+
+    * $23.95/each
+    * [Link to product](https://www.digikey.com/en/products/detail/pololu/2371/10450018?s=N4IgTCBcDa4MwHYCMACADgewDbYK4oBMBjFAWwwBcMAnEAXQF8g)
+      
+    | Pros                                      | Cons                                                             |
+    | ----------------------------------------- | ---------------------------------------------------------------- |
+    | Highest Torque                            | Higher price                                                     |
+    | Stable over operating temprature          | Low RPM                                                          |
+    | Doesn't require an additional power rail  |                                                                  |
+    | Lightweight                               |                                                                  |
+    | Small and compact                         |                                                                  |
+
+
+**Choice:** Option 3: 2371 6V motor (Pololu)
+
+**Rationale:** This motor eliminates the need for an extra power rail, keeping the PCB design simple. It's lightweight and even though it costs higher than the alternatives it is well within our budget and eleminates the need to buy a voltage regulator other than the one provided in the kit, overall saving cost and increasing productivity.
 
 **H-Bridge**
 
@@ -151,52 +203,6 @@ title: Component Selection
 
 **Rationale:** This Barrel Jack is part of the kit provided by the class and it fulfills our requirements hence, eliminating the need to order an external part.
 
-**Voltage Regulator**
 
-1. NJM7805FA
-
-   <img width="144" height="118" alt="image" src="https://github.com/user-attachments/assets/c0609540-c867-4b67-bb26-e6528d6dd6ac" />
-
-
-
-   * $1.7
-   * [Link to product](http://digikey.com/en/products/detail/nisshinbo-micro-devices-inc/NJM7805FA/805763)
-  
-    | Pros                                                              | Cons                |
-    | ----------------------------------------------------------------- | ------------------- |
-    | Lightweight                                                       | Higher price |
-    |                                                                   |Working temp lower (max- 85°C) |
-
-2. LM7805T
-
-   <img width="128" height="97" alt="image" src="https://github.com/user-attachments/assets/30cef9a5-1df8-4c35-be3c-9394cdece475" />
-
-    
-
-   * $0.33
-   * [Link to product](https://www.digikey.com/en/products/detail/taejin/LM7805T/22237260)
-  
-    | Pros                                                              | Cons                |
-    | ----------------------------------------------------------------- | ------------------- |
-    | From the kit                                                      | Only sold in bulk ($33/100) |
-    | Inexpensive                                                       |                      |
-
-3. LM7805R
-
-   <img width="132" height="96" alt="image" src="https://github.com/user-attachments/assets/45744c62-30cb-4aec-9836-b164c188a980" />
-
-
-    
-   * $0.33
-   * [Link to product](https://www.digikey.com/en/products/detail/taejin/LM7805R/22237269)
-  
-    | Pros                                                              | Cons                |
-    | ----------------------------------------------------------------- | ------------------- |
-    | Surface mount                                                     | Only sold in bulk ($266.66/800) |
-    | Better  thermal conductivity                                      |                      |
-
-**Choice:** Option 2: LM7805T
-
-**Rationale:** This Volatge Regulator is part of the kit provided by the class and it fulfills our requirements hence, eliminating the need to order an external part.
 
    
