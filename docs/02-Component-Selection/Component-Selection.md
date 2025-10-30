@@ -66,8 +66,8 @@ title: Component Selection
     | Pros                                      | Cons                           |
     | ----------------------------------------- | ------------------------------ |
     | Inexpensive                               | Low torque                     |
-    | Perfectly matches 5V rail                 |                                |
-    | Lightweight                               |                                |
+    | Perfectly matches 5V rail                 | Tendency to spike in amperage when turned on |
+    | Lightweight                               | Requires a diffrent Voltage regulator |
     | Available for bulk order for replacements |                                |
    
 2. SE15K1BTYJ 12V motor
@@ -81,7 +81,7 @@ title: Component Selection
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
     | Higher Torque                                                     | Higher Price        |
-    | Small and compact                                                 |                     |
+    | Small and compact                                                 | Requires a diffrent Voltage regulator |
 
 3. 2371 6V motor (Pololu)
 
@@ -91,16 +91,14 @@ title: Component Selection
 
     * $23.95/each
     * [Link to product](https://www.digikey.com/en/products/detail/pololu/2371/10450018?s=N4IgTCBcDa4MwHYCMACADgewDbYK4oBMBjFAWwwBcMAnEAXQF8g)
-      
-    | Pros                                      | Cons                                                             |
-    | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Highest Torque                            | Higher price                                                     |
-    | Stable over operating temprature          | Low RPM                                                          |
-    | Doesn't require an additional power rail  |                                                                  |
-    | Lightweight                               |                                                                  |
-    | Small and compact                         |                                                                  |
 
-
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Highest Torque                                                    | Higher Price        |
+    | Small and compact                                                 | Low RPM             |
+    | Doesn't require an additional power rail                          |                     |
+    | Lightweight                                                       |                     |
+    
 **Choice:** Option 3: 2371 6V motor (Pololu)
 
 **Rationale:** This motor eliminates the need for an extra power rail, keeping the PCB design simple. It's lightweight and even though it costs higher than the alternatives it is well within our budget and eleminates the need to buy a voltage regulator other than the one provided in the kit, overall saving cost and increasing productivity.
