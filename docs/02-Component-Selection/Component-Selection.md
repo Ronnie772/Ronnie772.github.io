@@ -90,9 +90,6 @@ title: Component Selection
    * $23.95
    * [Link to product](https://www.digikey.com/en/products/detail/pololu/2371/10450018?s=N4IgTCBcDa4MwHYCMACADgewDbYK4oBMBjFAWwwBcMAnEAXQF8g)
 
-    * $23.95/each
-    * [Link to product](https://www.digikey.com/en/products/detail/pololu/2371/10450018?s=N4IgTCBcDa4MwHYCMACADgewDbYK4oBMBjFAWwwBcMAnEAXQF8g)
-
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
     | Highest Torque                                                    | Higher Price        |
