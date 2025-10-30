@@ -63,12 +63,12 @@ title: Component Selection
     * $3.19/each
     * [link to product]((https://www.digikey.com/en/products/detail/nmb-technologies-corporation/M1N10FB11G/2417078))
 
-    | Pros                                      | Cons                                                             |
-    | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Inexpensive                               | Low torque                                                       |
-    | Perfectly matches 5V rail                 |                                                                  |
-    | Lightweight                               |                                                                  |
-    | Available for bulk order for replacements |                                                                  |
+    | Pros                                      | Cons                           |
+    | ----------------------------------------- | ------------------------------ |
+    | Inexpensive                               | Low torque                     |
+    | Perfectly matches 5V rail                 |                                |
+    | Lightweight                               |                                |
+    | Available for bulk order for replacements |                                |
    
 2. SE15K1BTYJ 12V motor
    
