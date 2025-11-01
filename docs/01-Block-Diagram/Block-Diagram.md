@@ -10,4 +10,5 @@ The block diagram represents the initial design for the pcb that will be used to
 
 
 
-<img width="1073" height="497" alt="block-diagram-RSC drawio" src="https://github.com/user-attachments/assets/4dbf8357-1c78-4f1b-ac1e-a32783def8c3" />
+
+<img width="1092" height="511" alt="block-diagram-RSC drawio" src="https://github.com/user-attachments/assets/53c052bf-e1c6-4f1d-b8ed-2a3adc6007d4" />
