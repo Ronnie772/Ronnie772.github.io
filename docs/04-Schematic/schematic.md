@@ -6,7 +6,7 @@ title: Schematic
 
 This schematic is the design of the pcb that controls the water valve.
 
-<img width="1592" height="649" alt="image" src="https://github.com/user-attachments/assets/eda6618d-db5f-47cc-8c27-c05bcbe41012" />
+<img width="1596" height="653" alt="image" src="https://github.com/user-attachments/assets/c7f5887b-7c76-4b24-a01e-ce2da41ba939" />
 
 
 
