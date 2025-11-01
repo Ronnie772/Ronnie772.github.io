@@ -7,13 +7,10 @@ The Power budget helps organise the electronics and decide the specifications fo
 
 
 
-<img width="1707" height="598" alt="image" src="https://github.com/user-attachments/assets/b907e89c-426e-49c6-81d6-d659b11d21b9" />
+<img width="1710" height="603" alt="image" src="https://github.com/user-attachments/assets/83fb27c0-9a33-4d68-8fbe-d8ca5c7a3567" />
 
 
-<img width="1708" height="504" alt="image" src="https://github.com/user-attachments/assets/d5fcafde-1553-42fd-b9a2-4e521eb08744" />
-
-
-<img width="1707" height="251" alt="image" src="https://github.com/user-attachments/assets/baa735ba-70fc-4d0e-88d9-0df4f90f1068" />
+<img width="1710" height="584" alt="image" src="https://github.com/user-attachments/assets/687fd895-5c0b-4541-af6e-6079db40e28f" />
 
 
 ## Conclusions
