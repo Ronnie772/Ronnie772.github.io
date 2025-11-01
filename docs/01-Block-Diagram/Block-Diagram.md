@@ -6,8 +6,7 @@ tags:
 ---
 
 ## Overview
-The block diagram represents the initial design for the pcb that will be used to control the motors of the water valve.
-
+This block diagram represents the motor subsystem for the Garden Buddy, it shows the structure and flow of power and signals among the major components without going into fine technical details.
 
 
 
