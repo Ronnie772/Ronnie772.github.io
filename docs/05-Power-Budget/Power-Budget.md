@@ -3,7 +3,7 @@ title: Power Budget
 ---
 
 ## Overview
-The Power budget helps organise the electronics and decide the specifications for the fuse on the pcb.
+The power budget outlines the total electrical power required for the motor subsystem, It ensures the power supply can reliably support all operating conditions without overload or performance issues.
 
 
 
@@ -15,7 +15,7 @@ The Power budget helps organise the electronics and decide the specifications fo
 
 ## Conclusions
 
-From the prepare Power Budget, there is enough current for the circuit and a definite 1500mA for the fuse.
+The Power Budget confirms that the chosen power source and components can safely handle the subsystem’s demands, providing stable operation and preventing failures under both normal and peak loads.
 
 ## Resouces
 
