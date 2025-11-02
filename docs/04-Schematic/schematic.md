@@ -4,7 +4,7 @@ title: Schematic
 
 ## Overview
 
-This schematic is the design of the pcb that controls the water valve.
+The schematic represents the electrical design of the motor subsystem, it illustrats component symbols, connections, and signal flow so the system can be correctly assembled, tested, and debugged.
 
 <img width="1596" height="653" alt="image" src="https://github.com/user-attachments/assets/c7f5887b-7c76-4b24-a01e-ce2da41ba939" />
 
