@@ -10,4 +10,7 @@ This block diagram represents the motor subsystem for the Garden Buddy, it shows
 
 
 
-<img width="1092" height="511" alt="block-diagram-RSC drawio" src="https://github.com/user-attachments/assets/53c052bf-e1c6-4f1d-b8ed-2a3adc6007d4" />
+<img width="924" height="606" alt="image" src="https://github.com/user-attachments/assets/b946806c-62a4-4e61-8bab-c794c3e2550a" />
+
+
+downloadable pdf available [*here*]()[block-diagram-RSC.drawio.pdf](https://github.com/user-attachments/files/23379240/block-diagram-RSC.drawio.pdf).
