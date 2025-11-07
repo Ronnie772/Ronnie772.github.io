@@ -6,7 +6,7 @@ title: Schematic
 
 The schematic represents the electrical design of the motor subsystem, it illustrats component symbols, connections, and signal flow so the system can be correctly assembled, tested, and debugged.
 
-<img width="1862" height="760" alt="image" src="https://github.com/user-attachments/assets/2acbb362-241a-4303-80a4-53e8e466cee5" />
+<img width="1867" height="763" alt="image" src="https://github.com/user-attachments/assets/e3f59ace-f62b-42b3-be98-4ac3bf1ba67d" />
 
 
 
