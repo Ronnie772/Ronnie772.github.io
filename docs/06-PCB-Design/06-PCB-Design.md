@@ -5,7 +5,8 @@ title: PCB
 ## Overview
 This is the PCB design for the GARDEN BUDDY's motor subsystem.
 
-<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/c755f9b2-4837-4b0e-9b95-373f6e9c48b4" />
+<img width="630" height="776" alt="image" src="https://github.com/user-attachments/assets/821b062c-6f51-4d5f-8b28-49f12f4337a9" />
+
 
 
 All the gbr files can be found in the zip file [*here*](https://github.com/user-attachments/files/23464360/PCB-egr304-gbr-files.zip),
