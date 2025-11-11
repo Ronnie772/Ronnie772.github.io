@@ -11,4 +11,4 @@ This is the PCB design for the GARDEN BUDDY's motor subsystem.
 
 
 All the gbr files can be found in the zip file [*here*](https://github.com/user-attachments/files/23466666/PCB-GBR-files.egr304-RSC.zip),
-and the ecad project files can be found [*here*](https://github.com/user-attachments/files/23444453/Subsystem-schematic-design-RSC-.ecad-zip-file.zip).
+and the ecad project files can be found [*here*](https://github.com/user-attachments/files/23466681/subsystem-all-project-ecad-files.egr304-RSC.zip).
