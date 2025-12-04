@@ -5,22 +5,24 @@ title: CODE
 ## Overview
 This is the code for microcontroller in the GARDEN BUDDY's motor subsystem.
 
-// --------------------------------------------------------
-#include "mcc_generated_files/system/system.h"
-#include <xc.h>
-#include <stdint.h>
 
 
-#define FWD   LATBbits.LATB3   // FORWARDA
-#define REV   LATBbits.LATB0   // REVERSEA
+    // --------------------------------------------------------
+    #include "mcc_generated_files/system/system.h"
+    #include <xc.h>
+    #include <stdint.h>
 
-#define RF5_GetValue()  PORTFbits.RF5
 
-int main(void)
-{
+    #define FWD   LATBbits.LATB3   // FORWARDA
+    #define REV   LATBbits.LATB0   // REVERSEA
+
+    #define RF5_GetValue()  PORTFbits.RF5
+
+    int main(void)
+    {
     SYSTEM_Initialize();
     PWM1_16BIT_Enable();
-
+    
     // ------------ LED on RC0 always ON ------------
     ANSELCbits.ANSELC0 = 0;   // Make RC0 a digital pin
     TRISCbits.TRISC0 = 0;     // RC0 = output
@@ -57,6 +59,9 @@ int main(void)
         PWM1_16BIT_LoadBufferRegisters();
 
         __delay_ms(50);
+        }
     }
-}
-//------------------END--------------------
+    //------------------END--------------------
+
+
+
