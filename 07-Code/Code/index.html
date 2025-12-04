@@ -1067,7 +1067,6 @@
 <h1 id="include-mcc_generated_filessystemsystemh">include "mcc_generated_files/system/system.h"</h1>
 <h1 id="include">include <xc.h></xc.h></h1>
 <h1 id="include_1">include <stdint.h></stdint.h></h1>
-<p>// Direction outputs (must match your H-bridge connections!)</p>
 <h1 id="define-fwd-latbbitslatb3-forwarda">define FWD   LATBbits.LATB3   // FORWARDA</h1>
 <h1 id="define-rev-latbbitslatb0-reversea">define REV   LATBbits.LATB0   // REVERSEA</h1>
 <h1 id="define-rf5_getvalue-portfbitsrf5">define RF5_GetValue()  PORTFbits.RF5</h1>
@@ -1093,20 +1092,20 @@ while(1)
 
     if (signal == 1)
     {
-        // --------- FORWARD WHEN RF5 = 1 ---------
+        // --------- FORWARD ---------
         REV = 0;
         FWD = 1;
         __delay_ms(1000);
     }
     else
     {
-        // --------- REVERSE WHEN RF5 = 0 ---------
+        // --------- REVERSE ---------
         FWD = 0;
         REV = 1;
         __delay_ms(1000);
     }
 
-    // Set some non-zero duty so motor actually moves
+
     PWM1_16BIT_SetSlice1Output1DutyCycleRegister(200);
     PWM1_16BIT_LoadBufferRegisters();
 
