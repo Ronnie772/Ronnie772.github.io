@@ -7,7 +7,7 @@ This is the code for microcontroller in the GARDEN BUDDY's motor subsystem.
 
 
 
-    // --------------------------------------------------------
+ 
     #include "mcc_generated_files/system/system.h"
     #include <xc.h>
     #include <stdint.h>
@@ -61,7 +61,7 @@ This is the code for microcontroller in the GARDEN BUDDY's motor subsystem.
         __delay_ms(50);
         }
     }
-    //------------------END--------------------
+   
 
 
 
