@@ -10,7 +10,7 @@ This is the code for microcontroller in the GARDEN BUDDY's motor subsystem.
 #include <xc.h>
 #include <stdint.h>
 
-// Direction outputs (must match your H-bridge connections!)
+
 #define FWD   LATBbits.LATB3   // FORWARDA
 #define REV   LATBbits.LATB0   // REVERSEA
 
@@ -39,20 +39,20 @@ int main(void)
 
         if (signal == 1)
         {
-            // --------- FORWARD WHEN RF5 = 1 ---------
+            // --------- FORWARD ---------
             REV = 0;
             FWD = 1;
             __delay_ms(1000);
         }
         else
         {
-            // --------- REVERSE WHEN RF5 = 0 ---------
+            // --------- REVERSE ---------
             FWD = 0;
             REV = 1;
             __delay_ms(1000);
         }
 
-        // Set some non-zero duty so motor actually moves
+       
         PWM1_16BIT_SetSlice1Output1DutyCycleRegister(200);
         PWM1_16BIT_LoadBufferRegisters();
 
