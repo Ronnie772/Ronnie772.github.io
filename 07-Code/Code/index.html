@@ -826,60 +826,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#include-mcc_generated_filessystemsystemh" class="md-nav__link">
-    <span class="md-ellipsis">
-      include "mcc_generated_files/system/system.h"
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#include" class="md-nav__link">
-    <span class="md-ellipsis">
-      include 
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#include_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      include 
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#define-fwd-latbbitslatb3-forwarda" class="md-nav__link">
-    <span class="md-ellipsis">
-      define FWD   LATBbits.LATB3   // FORWARDA
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#define-rev-latbbitslatb0-reversea" class="md-nav__link">
-    <span class="md-ellipsis">
-      define REV   LATBbits.LATB0   // REVERSEA
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#define-rf5_getvalue-portfbitsrf5" class="md-nav__link">
-    <span class="md-ellipsis">
-      define RF5_GetValue()  PORTFbits.RF5
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -985,60 +931,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#include-mcc_generated_filessystemsystemh" class="md-nav__link">
-    <span class="md-ellipsis">
-      include "mcc_generated_files/system/system.h"
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#include" class="md-nav__link">
-    <span class="md-ellipsis">
-      include 
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#include_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      include 
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#define-fwd-latbbitslatb3-forwarda" class="md-nav__link">
-    <span class="md-ellipsis">
-      define FWD   LATBbits.LATB3   // FORWARDA
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#define-rev-latbbitslatb0-reversea" class="md-nav__link">
-    <span class="md-ellipsis">
-      define REV   LATBbits.LATB0   // REVERSEA
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#define-rf5_getvalue-portfbitsrf5" class="md-nav__link">
-    <span class="md-ellipsis">
-      define RF5_GetValue()  PORTFbits.RF5
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1062,20 +954,27 @@
   
 
 
+  <h1>CODE</h1>
+
 <h2 id="overview">Overview</h2>
 <p>This is the code for microcontroller in the GARDEN BUDDY's motor subsystem.</p>
-<p>// --------------------------------------------------------</p>
-<h1 id="include-mcc_generated_filessystemsystemh">include "mcc_generated_files/system/system.h"</h1>
-<h1 id="include">include <xc.h></xc.h></h1>
-<h1 id="include_1">include <stdint.h></stdint.h></h1>
-<h1 id="define-fwd-latbbitslatb3-forwarda">define FWD   LATBbits.LATB3   // FORWARDA</h1>
-<h1 id="define-rev-latbbitslatb0-reversea">define REV   LATBbits.LATB0   // REVERSEA</h1>
-<h1 id="define-rf5_getvalue-portfbitsrf5">define RF5_GetValue()  PORTFbits.RF5</h1>
-<p>int main(void)
+<pre><code>// --------------------------------------------------------
+#include "mcc_generated_files/system/system.h"
+#include &lt;xc.h&gt;
+#include &lt;stdint.h&gt;
+
+
+#define FWD   LATBbits.LATB3   // FORWARDA
+#define REV   LATBbits.LATB0   // REVERSEA
+
+#define RF5_GetValue()  PORTFbits.RF5
+
+int main(void)
 {
-    SYSTEM_Initialize();
-    PWM1_16BIT_Enable();</p>
-<pre><code>// ------------ LED on RC0 always ON ------------
+SYSTEM_Initialize();
+PWM1_16BIT_Enable();
+
+// ------------ LED on RC0 always ON ------------
 ANSELCbits.ANSELC0 = 0;   // Make RC0 a digital pin
 TRISCbits.TRISC0 = 0;     // RC0 = output
 LATCbits.LATC0 = 1;       // Turn LED ON permanently
@@ -1111,10 +1010,10 @@ while(1)
     PWM1_16BIT_LoadBufferRegisters();
 
     __delay_ms(50);
+    }
 }
+//------------------END--------------------
 </code></pre>
-<p>}
-//------------------END--------------------</p>
 
 
 
