@@ -1,3 +1,9 @@
+---
+title: CODE
+---
+
+## Overview
+This is the code for microcontroller in the GARDEN BUDDY's motor subsystem.
 
 
 #include "mcc_generated_files/system/system.h"
