@@ -10,7 +10,8 @@ This BOM outlines every item needed to assemble the motor subsystem for the Gard
 
 ## Bill of Materials 
 
-<img width="1442" height="364" alt="image" src="https://github.com/user-attachments/assets/71e1d920-2b62-4f34-9da9-47da008a0a9c" />
+<img width="2141" height="529" alt="image" src="https://github.com/user-attachments/assets/192e27a0-6849-4479-b845-be2eb4e9fc4f" />
+
 
 
 
