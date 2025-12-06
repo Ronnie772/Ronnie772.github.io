@@ -16,4 +16,4 @@ This BOM outlines every item needed to assemble the motor subsystem for the Gard
 
 
 
-You can find the xlsx file [*here*](https://github.com/user-attachments/files/23289007/Bill_of_Materials_egr304.xlsx).
+You can find the xlsx file [*here*](https://github.com/user-attachments/files/23973200/Bill_of_Materials_egr304.xlsx)
