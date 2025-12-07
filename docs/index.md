@@ -17,7 +17,8 @@ for<br>
 ## Introduction
 
 * These pages describe the construction of the motor subsystem for the Garden Buddy.
- 
+
+<br> 
 
 ### Project Summary
 
