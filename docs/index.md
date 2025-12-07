@@ -23,7 +23,9 @@ for<br>
 
 * Our goal witht the Garden Buddy is to bring automation to the green thumb so that everyone can enjoy a green and healthy environment at the comfort of their homes.
 * We have desgined a moisture sensor that detects the hydration of the soil and lets our motor subsystem know when to open and close the valves to the water tank, irrigating the soil and maintaining the plants. We have a light sensor and a speaker that lets the user know when there isn't enough light or if the water tank is empty. 
-  
+
+<br>
+
 ### My Contribution
 
 * My part of the project was to design, build and test th emotor subsystem. This smart irrigation system "Garden Buddy" detects the hydration of the soil and opens the water valves to irrigate the soil keeping the plant healthy and ensuring their long life with minimal user interaction.
@@ -37,6 +39,9 @@ for<br>
 * To review the detials of the Power Budget click [*here*](https://ronnie772.github.io/05-Power-Budget/Power-Budget/)
 
 <br>
+
+Team Report can be found [*here*](https://asu-egr304-2025-f-201.github.io/).
+
 ---
 | **Team Member**        |**Ind. Datasheet Links** |
 | ---------------------- | -----------------------|
@@ -44,4 +49,4 @@ for<br>
 | Isaiah Johnston        | [Isaiahcmd.GitHub](https://isaiahcmd.github.io/)|
 | Rylee Wirt             | [rmwirt-source.GitHub](https://rmwirt-source.github.io)|
 
-Team Report can be found [*here*](https://asu-egr304-2025-f-201.github.io/).
+
