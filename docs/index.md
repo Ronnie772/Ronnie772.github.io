@@ -36,4 +36,12 @@ for<br>
 
 * To review the detials of the Power Budget click [*here*](https://ronnie772.github.io/05-Power-Budget/Power-Budget/)
 
+<br>
+---
+| **Team Member**        |**Ind. Datasheet Links** |
+| ---------------------- | -----------------------|
+| Jacob Alger            | [JacobAlger.GitHub](https://jacob-alger.github.io/)|
+| Isaiah Johnston        | [Isaiahcmd.GitHub](https://isaiahcmd.github.io/)|
+| Rylee Wirt             | [rmwirt-source.GitHub](https://rmwirt-source.github.io)|
 
+Team Report can be found [*here*](https://asu-egr304-2025-f-201.github.io/).
