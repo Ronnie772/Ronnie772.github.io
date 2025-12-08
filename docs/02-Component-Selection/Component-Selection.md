@@ -51,7 +51,7 @@ title: Component Selection
 
 **Choice:** Option 2: LM7805T
 
-**Rationale:** This Volatge Regulator is part of the kit provided by the class and it fulfills our requirements hence, eliminating the need to order an external part.
+**Rationale:** The LM7805T has a 5V 1500mA output, it is inexpensive and efficient, the output matches our requerments perfectly and fits the power budget as well, since it is one of th parts provided by the class it makes most sense to choose this voltage regulator.
 
 **Motors**
 
@@ -99,7 +99,7 @@ title: Component Selection
     
 **Choice:** Option 3: 2371 6V motor (Pololu)
 
-**Rationale:** This motor eliminates the need for an extra power rail, keeping the PCB design simple. It's lightweight and even though it costs higher than the alternatives it is well within our budget and eleminates the need to buy a voltage regulator other than the one provided in the kit, overall saving cost and increasing productivity.
+**Rationale:** The 2371 6v motor by Pololu is perfect match for our 5v power rail and eliminates the need for an extra one, keeping the PCB design simple. It is lightweight and has the highest toque output, therefore saving cost and increasing productivity.
 
 **H-Bridge**
 
@@ -147,7 +147,7 @@ title: Component Selection
 
 **Choice:** Option 1: FAN8100N 
 
-**Rationale:** This H-Bridge is part of the kit provided by the class and it fulfills our requirements hence, eliminating the need to order an external part. 
+**Rationale:** This FAN8100N is an inexpensive and efficient component that fits our requirements perfectly since it is part of the kit provided by the class it also eliminates the need to order an external part, therefore saving cost and increasing productivity. 
 
 
 **Barrel Jack**
@@ -197,7 +197,7 @@ title: Component Selection
 
 **Choice:** Option 1: PJ-102AH
 
-**Rationale:** This Barrel Jack is part of the kit provided by the class and it fulfills our requirements hence, eliminating the need to order an external part.
+**Rationale:** The PJ-102AH is an inexpensive and highly efficient barrel jack switch, it is part of the kit provided by the class and it fulfills our requirements hence eliminating the need to order an external part, saving cost and increasing productivity.
 
 
 
