@@ -1,6 +1,13 @@
+---
+title: Reflections
+tags:
+- tag1
+- tag2
+---
 
 
-## Reflections
+## Overview
+The Reflections section summarizes the key insights gained throughout the development of the motor subsystem and the overall Garden Buddy project. It highlights what worked well and the lessons learned during the design, testing, and integration phases. By reflecting on both successes and setbacks, this section provides meaningful context for future improvements and offers guidance for teams who may build on this work in later iterations of the project.
 
 ## Lessons Learned
 
@@ -15,7 +22,7 @@
 5.Label everything on the schematic with purpose, not just values for components.
 Set up consistent meetings to make sure that everyone is on task and continuing to do the project properly.
 
-## Recommendations for Future Students
+## Recommendations for the future
 
 1.Use simulation tools before wiring, like LTspice. Simulating power rails or PWM duty effects catches conceptual errors early.
 
