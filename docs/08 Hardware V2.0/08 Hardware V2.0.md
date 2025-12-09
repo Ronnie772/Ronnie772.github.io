@@ -12,7 +12,8 @@ This page describes the potential imrovements that could be made to teh motor su
 <br>
 
 **IMPROVEMENT 1.** <br>
-               * Replace LM7805 linear regulator with a switching buck regulator to reduce heat and improve efficiency at                       higher motor/system currents.
+              
+* Replace LM7805 linear regulator with a switching buck regulator to reduce heat and improve efficiency at                       higher motor/system currents.
   
   
 **IMPROVEMENT 2.** <br>  
