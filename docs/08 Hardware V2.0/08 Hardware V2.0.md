@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Overview
-This page describes the potential imrovements that could be made to the motor subsystem if it were to be redisgned.
+Hardware V2.0 represents the next-generation refinement of the motor subsystem, incorporating improvements identified during prototyping, testing, and integration of the initial design. The goals of this revision are to increase electrical robustness, enhance safety, simplify debugging, and expand subsystem functionality for future development.
 
 
 <br>
