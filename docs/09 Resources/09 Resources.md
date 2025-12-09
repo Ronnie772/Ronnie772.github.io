@@ -1,5 +1,10 @@
-
-
+---
+title: Resources
+tags:
+- tag1
+- tag2
+---
+Overview
 The Resources section provides all design files and supporting documentation necessary to review, replicate, or further develop the motor subsystem hardware and firmware. This includes the full MPLAB project used to program and test the PIC18F57Q43 microcontroller, as well as the complete KiCad project files for the motor subsystem PCB. Together, these files offer a comprehensive reference for both the electrical design and embedded software used in the Garden Buddy system.
 The MPLAB project contains the source code, configuration settings, and MCC-generated drivers that implement PWM motor control, override logic, sensor interfacing, and subsystem communication. These files allow future developers to rebuild, modify, or extend the firmware without recreating the environment from scratch.
 
