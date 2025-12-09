@@ -1193,14 +1193,32 @@
 <h2 id="overview">Overview</h2>
 <p>The Reflections section summarizes the key insights gained throughout the development of the motor subsystem and the overall Garden Buddy project. It highlights what worked well and the lessons learned during the design, testing, and integration phases. By reflecting on both successes and setbacks, this section provides meaningful context for future improvements and offers guidance for teams who may build on this work in later iterations of the project.</p>
 <h2 id="lessons-learned">Lessons Learned</h2>
-<p>1.Start hardware–software co-development early, don’t wait for final hardware to start firmware logic. Even partial schematics or simulated signals can be enough to begin writing, testing, and refining control structures. When hardware finally arrives, the software is already stable.</p>
-<p>2.Build subsystems within subsystems so they can be tested independently, designing each subsystem so that it can be verified in isolation before integrating. This prevents cascading problems and reduces debugging time dramatically.</p>
-<p>3.Version-control everything, store KiCad files, code, PDFs, lab notes, and firmware versions in a systematic manner so that when it's time to integrate everything, it doesn't jumble up.</p>
-<p>4.Label everything on the schematic with purpose, not just values for components.</p>
+<ol>
+<li>
+<p>Start hardware–software co-development early, don’t wait for final hardware to start firmware logic. Even partial schematics or simulated signals can be enough to begin writing, testing, and refining control structures. When hardware finally arrives, the software is already stable.</p>
+</li>
+<li>
+<p>Build subsystems within subsystems so they can be tested independently, designing each subsystem so that it can be verified in isolation before integrating. This prevents cascading problems and reduces debugging time dramatically.</p>
+</li>
+<li>
+<p>Version-control everything, store KiCad files, code, PDFs, lab notes, and firmware versions in a systematic manner so that when it's time to integrate everything, it doesn't jumble up.</p>
+</li>
+<li>
+<p>Label everything on the schematic with purpose, not just values for components.</p>
+</li>
+</ol>
 <h2 id="recommendations-for-the-future">Recommendations for the future</h2>
-<p>1.Use simulation tools before wiring, like LTspice. Simulating power rails or PWM duty effects catches conceptual errors early.</p>
-<p>2.Prioritize clarity in wire management.</p>
-<p>3.Break out extra test points, Adding accessible pads for key signals (5V, GND, PWM lines, motor outputs) makes probing and troubleshooting far easier.</p>
+<ol>
+<li>
+<p>Use simulation tools before wiring, like LTspice. Simulating power rails or PWM duty effects catches conceptual errors early.</p>
+</li>
+<li>
+<p>Prioritize clarity in wire management.</p>
+</li>
+<li>
+<p>Break out extra test points, Adding accessible pads for key signals (5V, GND, PWM lines, motor outputs) makes probing and troubleshooting far easier.</p>
+</li>
+</ol>
 
 
 
