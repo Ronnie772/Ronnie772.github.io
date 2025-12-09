@@ -14,6 +14,9 @@ for<br>
 **Submission: DEC/08/2025**
 </center>
 
+![after_soldering_front](https://github.com/user-attachments/assets/9dc737cf-3ba5-497a-b4fe-042c1357f862)
+
+
 ## Introduction
 
 * These pages describe the construction of the motor subsystem for the Garden Buddy.
