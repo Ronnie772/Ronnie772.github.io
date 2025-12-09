@@ -3,7 +3,7 @@ title: PCB - Design
 ---
 
 ## Overview
-This is the PCB design for the GARDEN BUDDY's motor subsystem. 
+The PCB for Motor Subsystem of Garden Buddy project implements the PIC18F57Q43 Curiosity Nano, the FAN8100N H-bridge driver, and connectors for the Pololu DC motor and team sensor interfaces. A 9v barrel jack supplies power to the onboard LM7805 linear regulator, which generates the regulated 5v rail used by the microcontroller, H-bridge, indicator LED, and override switches. Additional components such as pull-down resistors, bypass capacitors, and the safety override switches are placed to ensure stable operation and simplify testing.
 
 <br>
 
