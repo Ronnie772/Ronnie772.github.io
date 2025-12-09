@@ -8,10 +8,10 @@ tags:
 ## Overview
 
 This image serves as a complete bill of materials (BOM) for the motor subsystem design, outlining every item needed to assemble the motor subsystem for the Garden Buddy project, it serves as the main reference for the procurement of parts and cost estimation. All the components are readily available through Digi-Key, Amazon and Microchip-Technology and the total cost of the subsystem is,                      
-                            <br>       <br>                                   {the 5 outsourced JLC PCBs = $3.20}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {the 5 outsourced JLC PCBs = $3.20}
+
 $52.20. + $3.20 = $55.40.     <br>    
 
-<br>
 
 ## Bill of Materials 
 
