@@ -11,7 +11,7 @@ This image serves as a complete bill of materials (BOM) for the motor subsystem 
 
 The 5 outsourced JLC PCBs included (**$3.20**) the total cost of the subsystem is,                      
 
-$52.20 + $3.20 = $55.40.
+**$52.20 + $3.20 = $55.40**
 
 
 ## Bill of Materials 
