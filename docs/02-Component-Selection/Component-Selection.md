@@ -201,7 +201,8 @@ title: Component Selection
 
 <br>
 
-FINAL MAJOR COMPONENT SELECTION
+**FINAL MAJOR COMPONENT SELECTION**
+
 | **Component** | **Product** |
 |---------------|--------------|
 | Barrel Jack | PJ-102AH |
