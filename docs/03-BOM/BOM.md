@@ -10,7 +10,7 @@ tags:
 This image serves as a complete bill of materials (BOM) for the motor subsystem design, outlining every item needed to assemble the motor subsystem for the Garden Buddy project, it serves as the main reference for the procurement of parts and cost estimation. All the components are readily available through Digi-Key, Amazon and Microchip-Technology and the total cost of the subsystem is,                      
 
 $$ 
-**_$52.20 + $3.20 = $55.40_** 
+$52.20 + $3.20 = $55.40
 $$  
 
 
