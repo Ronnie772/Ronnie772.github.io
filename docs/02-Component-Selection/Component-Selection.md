@@ -199,6 +199,7 @@ title: Component Selection
 
 **Rationale:** The PJ-102AH is an inexpensive and highly efficient barrel jack switch, it is part of the kit provided by the class and it fulfills our requirements hence eliminating the need to order an external part, saving cost and increasing productivity.
 
+<br>
 
 FINAL MAJOR COMPONENT SELECTION
 | **Component** | **Product** |
