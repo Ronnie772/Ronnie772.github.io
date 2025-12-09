@@ -13,4 +13,6 @@ The KiCad project provides the schematic, PCB layout, component libraries, and f
 
 [MPLAB X PROJECT](https://github.com/user-attachments/files/24046420/Subsystem-Motor_egr304_.zip)
 
+[GBR & DRL files from KiCAD](https://github.com/user-attachments/files/23944338/gbr.drl_files_PCB_GARDEN_BUDDY.zip),
+[ecad project files from KiCAD](https://github.com/user-attachments/files/23466681/subsystem-all-project-ecad-files.egr304-RSC.zip).
 
