@@ -63,5 +63,6 @@ This is the code for microcontroller in the GARDEN BUDDY's motor subsystem.
     }
    
 
-
+The MPLab project as a .zip is available [*here*](https://github.com/user-attachments/files/24046090/Subsystem-Motor_egr304_.zip)
+()
 
