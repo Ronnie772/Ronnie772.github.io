@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Overview
-This page describes the potential imrovements that could be made to teh motor subsystem is it were to be redisgned.
+This page describes the potential imrovements that could be made to the motor subsystem if it were to be redisgned.
 
 
 <br>
