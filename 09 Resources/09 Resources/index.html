@@ -89,6 +89,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#overview" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -930,6 +935,17 @@
       
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Resources
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -939,6 +955,32 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      Overview
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -1072,6 +1114,23 @@
   
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      Overview
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -1095,10 +1154,11 @@
 
   <h1>Resources</h1>
 
-<p>Overview
-The Resources section provides all design files and supporting documentation necessary to review, replicate, or further develop the motor subsystem hardware and firmware. This includes the full MPLAB project used to program and test the PIC18F57Q43 microcontroller, as well as the complete KiCad project files for the motor subsystem PCB. Together, these files offer a comprehensive reference for both the electrical design and embedded software used in the Garden Buddy system.
-The MPLAB project contains the source code, configuration settings, and MCC-generated drivers that implement PWM motor control, override logic, sensor interfacing, and subsystem communication. These files allow future developers to rebuild, modify, or extend the firmware without recreating the environment from scratch.</p>
+<h2 id="overview">Overview</h2>
+<p>The Resources section provides all design files and supporting documentation necessary to review, replicate, or further develop the motor subsystem hardware and firmware. This includes the full MPLAB project used to program and test the PIC18F57Q43 microcontroller, as well as the complete KiCad project files for the motor subsystem PCB. Together, these files offer a comprehensive reference for both the electrical design and embedded software used in the Garden Buddy system.</p>
+<p>The MPLAB project contains the source code, configuration settings, and MCC-generated drivers that implement PWM motor control, override logic, sensor interfacing, and subsystem communication. These files allow future developers to rebuild, modify, or extend the firmware without recreating the environment from scratch.</p>
 <p>The KiCad project provides the schematic, PCB layout, component libraries, and fabrication outputs for Hardware V1.0 of the motor subsystem. These resources support hardware debugging, revision planning, and the development of an improved Hardware V2.0 design. Gerber files, BOMs, 3D models, and manufacturing notes are also included to facilitate board fabrication and assembly.</p>
+<p><a href="https://github.com/user-attachments/files/24046420/Subsystem-Motor_egr304_.zip">MPLAB X PROJECT</a></p>
 
 
 
