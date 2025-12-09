@@ -209,3 +209,13 @@ title: Component Selection
 | Voltage regulator | LM7805T |  
 | H-Bridge | FAN8100N  |
 | Motor | 2371 (Pololu) |
+
+<br>
+
+**MCC CONFIGURATION**
+
+The image below shows the MCC configuration used for the Motor subsystem in the GARDEN BUDDY project, the pins represent the interaction of the components with the microcontroller PIC18F57Q43. The Motor gets it's directional information the RF5 siganl deteting pin that processes the information and turns the motor either REV using the RB0 pin or FWD using the RB3 pin, meanwhile the RC0 pin provides a constant power to the debug RED-LED.
+
+<br>
+
+<img width="2352" height="1295" alt="image" src="https://github.com/user-attachments/assets/538f0cdc-2918-40d6-9202-903f9225d5da" />
