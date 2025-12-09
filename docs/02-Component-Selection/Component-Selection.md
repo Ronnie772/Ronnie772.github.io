@@ -200,5 +200,9 @@ title: Component Selection
 **Rationale:** The PJ-102AH is an inexpensive and highly efficient barrel jack switch, it is part of the kit provided by the class and it fulfills our requirements hence eliminating the need to order an external part, saving cost and increasing productivity.
 
 
-
-   
+FINAL MAJOR COMPONENT SELECTION
+| **Component** | **Product** |
+| Barrel Jack | PJ-102AH |
+| Voltage regulator | LM7805T |  
+| H-Bridge | FAN8100N  |
+| Motor | 2371 (Pololu) |
