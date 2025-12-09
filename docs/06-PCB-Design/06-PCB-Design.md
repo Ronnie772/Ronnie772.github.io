@@ -21,10 +21,13 @@ Bottom layer of PCB (before soldering)
 
 <br>
 
-Top layer of the PCB (after soldering)
+Top layer of the PCB (after partial soldering)
 ![after_soldering_front](https://github.com/user-attachments/assets/4d27d4cb-8b6d-423c-91e1-77934fec5f80)
 
-Bottom layer of the PCB (after Soldering)
+<br>
+
+Bottom layer of the PCB (after partial Soldering)
+![after_soldering_back](https://github.com/user-attachments/assets/6be57772-8843-487d-a4f7-ff11a0c98619)
 
 
 
