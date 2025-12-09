@@ -202,6 +202,7 @@ title: Component Selection
 
 FINAL MAJOR COMPONENT SELECTION
 | **Component** | **Product** |
+|---------------|--------------|
 | Barrel Jack | PJ-102AH |
 | Voltage regulator | LM7805T |  
 | H-Bridge | FAN8100N  |
